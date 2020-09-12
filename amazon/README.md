@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Amazon-Clone-App
 [Link](https://challenge-8eab4.web.app/"link")
+
+
+
 ##Set up Firebase; Develop React, React Context API and Javascript 
 ##Built a checkout page, login page, home page
 ##Set up payment gateways, added basket functionality
